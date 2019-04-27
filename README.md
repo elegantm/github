@@ -9,7 +9,7 @@ Installation via git clone or download this repo.
 ## Usage
 
 1. Git clone or download zip
-2. Execute `python github_hosts.py`, python 2.7+ required
+2. Execute `python github_hosts.py`, python 3.5+ required
 3. Copy content of `github_hosts.txt` to local hosts file
 4. Enjoy GitHUb!
 
